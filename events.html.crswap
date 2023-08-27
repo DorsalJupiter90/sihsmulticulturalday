@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@450;575&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 575;
+        }
+    </style>
+    <title>Events - St Ives High Multicultural Day</title>
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="home.html">
+                <img src="https://cdn.s.kittl.com/pr:sharp/rs:fit:1440:1440:0/plain/templates/multiculturial-Logo-Design-Template-1693116245076.png@webp" width="75" alt="Your Logo">
+            </a>
+        </div>
+        
+        <nav>
+            <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around;">
+                <li style="margin-right: 35px;"><a href="home.html" style="font-size: 22px;">Home</a></li>
+                <li style="margin-right: 35px;"><a href="about.html" style="font-size: 22px;">About</a></li>
+                <li style="margin-right: 35px;"><a href="events.html" style="font-size: 22px;">Events</a></li>
+                <li><a href="contact.html" style="font-size: 22px;">Contact</a></li>
+            </ul>
+        </nav>   
+    </header>
+    
+    <section class="hero events-hero animate__animated animate__fadeInUp" style="font-size: 35px; text-align: center;">
+        <h1 style="white-space: pre-wrap; transition-timing-function: ease; transition-duration: 1.5s; transition-delay: 0.461538s; color: #ffffff; background-color: #203060; padding: 10px; border-radius: 5px; margin-bottom: 10px; width: fit-content; margin: 0 auto;" class="preFade fadeIn">Our Events</h1>
+        <h2 style="white-space: pre-wrap; transition-timing-function: ease; transition-duration: 1.5s; transition-delay: 0.461538s; color: #ffffff; background-color: #203060; padding: 10px; border-radius: 5px; width: fit-content; margin: 0 auto; font-size: 40px;" class="preFade fadeIn">What are they?</h2>
+    </section>
+
+    <section class="content animate__animated animate__fadeInLeft" style="font-size: 22px; display: flex;">
+        <div class="left-section" style="flex: 1;">
+            <div class="events-section" style="text-align: center;">
+                <h2 style="margin-bottom: 20px;">What is happening Multicultural Day?</h2>
+                <p style="margin-bottom: 20px;">Multicultural Day is an annual event celebrated at St Ives High School that brings together students, staff, and the wider community to celebrate the cultures of the world</p>
+                <p style="margin-bottom: 20px;">There are cultural performances, food, music, and activities throughout the day as part of celebrations</p>
+                <p style="margin-bottom: 20px;">Multicultural Day has grown to become one of the most anticipated events at our school, fostering cross-cultural friendships, promoting cultural exchange, and encouraging open dialogues about identity and heritage.</p>
+                <p style="margin-bottom: 20px;">Our goal is to cultivate a sense of cultural appreciation and understanding among our students.</p>
+                <p style="margin-bottom: 20px;">Multicultural Day plays a crucial role in giving students the chance to engage with cultures they may not be familiar with, challenging preconceived notions and broadening their perspectives.</p>
+            </div>
+        </div>
+        
+        <div class="right-section" style="flex: 1;">
+            <div class="events-section" style="text-align: center;">
+                <img src="https://school-news.com.au/wp-content/uploads/2016/09/Multicultural-Day-2014-Girls-in-front-of-flags-of-the-world-2.jpg" width="600" alt="people in mc day">
+            </div>
+        </div>
+    </section>
+    
+    <footer>
+        <div class="image">
+            <img src="https://media.australian.museum/media/dd/images/Some_image.width-1600.9bc6ad1.jpg" width="75" alt="Aboriginal flag">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" width="97" alt="Aussie flag">
+       <p style="margin-bottom: 20px;font-size: 15px; text-align: center;">© 2023 Multicultural Day St Ives High School</p>
+    </div>
+    </footer>
+</body>
+</html>

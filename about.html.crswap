@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags and links to stylesheets -->
+    <title>About - St Ives High Multicultural Day</title>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <!-- Header content -->
+    </header>
+
+    <!-- Hero section -->
+    <section class="hero animate__animated animate__fadeInUp" style="font-size: 35px; text-align: center;">
+        <!-- Hero content -->
+    </section>
+
+    <!-- About section -->
+    <section class="content animate__animated animate__fadeInLeft" style="font-size: 22px; display: flex;">
+        <div class="left-section" style="flex: 0.7;">
+            <!-- About content -->
+        </div>
+        <div class="right-section" style="flex: 0.7;">
+            <!-- Event details content -->
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>

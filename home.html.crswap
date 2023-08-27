@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <title>St Ives High Multicultural Day</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="https://e7.pngegg.com/pngimages/792/951/png-clipart-multiculturalism-symbol-logo-culture-multicultural-council-of-saskatchewan-connecting-miscellaneous-flower.png" width="75" alt="Your Logo">
+        </div>     
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="hero animate__animated animate__fadeInUp" style="font-size: 35px;">
+        <h1 style="text-align: center; white-space: pre-wrap; transition-timing-function: ease; transition-duration: 1.5s; transition-delay: 0.461538s;" class="preFade fadeIn">St Ives High Multicultural Day</h1>
+        <h2 style="text-align: center; white-space: pre-wrap; transition-timing-function: ease; transition-duration: 1.5s; transition-delay: 0.461538s;" class="preFade fadeIn">October 16th 9am-3pm</h2>
+    </section>
+
+    <section class="content animate__animated animate__fadeInLeft" style="font-size: 22px; margin-left: 30px; margin-bottom: 20px;">
+        <div class="description">
+            <h2>About the Event</h2>
+            <p>Mark your calendars for a vibrant and enriching experience as St Ives High School proudly presents its annual Multicultural Day on October 16th. This exciting event is a celebration of the diverse tapestry of cultures that make up our school community and the world at large.</p>
+            <p>There will be so much to do as there will be food trucks, a concert and cultural speakers visiting throughout the day.</p>
+            <p>Check out this video to the right to get a glimpse of what Multicultural Day is like!</p>
+        </div>
+    </section>
+    
+    <section class="content animate__animated animate__fadeInLeft" style="font-size: 22px; margin-left: 30px;">
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/PtYBp10h2O0" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </section>
+        
+        <div class="image">
+            <img src="image1.jpg" alt="Event Image 1">
+        </div>
+       
+        <div class="image">
+            <img src="image2.jpg" alt="Event Image 2">
+        </div>
+    </section>
+
+    <section class="about-multicultural animate__animated animate__fadeInRight">
+        <h2>What Multicultural Day is All About</h2>
+        <p>Explanation of the significance and purpose of Multicultural Day.</p>
+    </section>
+
+    <footer>
+        <div class="image">
+            <img src="https://media.australian.museum/media/dd/images/Some_image.width-1600.9bc6ad1.jpg" width="75" alt="Aboriginal flag">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" width="97" alt="Aussie flag">
+        </div>
+    </footer>
+</body>
+</html>
+
